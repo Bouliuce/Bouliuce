@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 你好，我是 欧阳乐晨
 
-<!--
-**Bouliuce/Bouliuce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 个人简介
+- **姓名**：欧阳乐晨
+- **专业**：人工智能
+- **进入实验室时间**：10月12日
 
-Here are some ideas to get you started:
+## 📚 前两阶段学习总结
+在实验室的前两个阶段，我完成了 C 语言的基础学习，并独立完成了项目开发。同时，我也熟悉了计算机基础操作、AI 聊天产品的使用以及 GitHub 的基本操作。在这个过程中，我意识到之前对 AI 的利用还不够深入，需要从“聊天工具”向“干活工具”转变。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 本周学习目标（第三阶段）
+本周的核心目标是完成 AI Agent 的实操任务：
+1. 掌握提示词工程，完成至少 3 轮的提示词迭代出图。
+2. 学会让 Agent 辅助检索、拉取并试跑轻量开源项目，记录完整的排错过程。
+3. 让 Agent 从零生成一个可运行的小工具，并完成边界测试。
+4. 跑通完整的 AI 协作流程。
